@@ -1,5 +1,5 @@
-## Hi 👋, I'm Sakshi Gupta
-### I'm a passionate Full Stack Developer from India.
+                                                                             ## Hi 👋, I'm Sakshi Gupta
+                                                                                ### I'm a passionate QA Engineer from India.
 
 
 
