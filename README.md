@@ -1,11 +1,14 @@
-  ## Hi 👋, I'm Sakshi Gupta
-  ### **I'm a passionate QA Engineer from India.
+<div align="center">
+
+  # Hi 👋, I'm Sakshi Gupta
+  ### 🚀 SDET | Automation Tester | Software Engineer 
+</div>
 
 
 
 
 - 🔭 I’m currently working on **Coforge Technology.**
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Selenium | CI/CD**
 - 👯 I’m looking to collaborate on **Automation Testing**
 - 🤔 I’m looking for help with **Manual Testing**
 - 💬 Ask me about **Software Testing**
