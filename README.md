@@ -1,11 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" height="175px"/></a>
+<a href="#"><img width="90%" height="auto" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" height="75px" align="center"/></a>
 <h1 align="center">Hi 👋, I'm Sakshi Gupta</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">🚀 SDET | Automation Tester | Software Engineer </h3>
 
     
-  # Hi 👋, I'm Sakshi Gupta
-  ### 🚀 SDET | Automation Tester | Software Engineer 
-</div>
+  
 
 
 
